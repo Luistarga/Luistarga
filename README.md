@@ -1,16 +1,15 @@
-### Hi there 👋
+Ola! meu nome é Luis Fernando Targa Pereira
+sou aluno da escola Gelvira correa Pacheco
+e estou estudando na [alura](https://www.alura.com.br/).
 
-<!--
-**Luistarga/Luistarga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudando programaçao
+- linguagem javaScript
+### contato
+Meu insta caso queira dar uma stalkeada 💟
+**luis.targass**
 
-Here are some ideas to get you started:
+pode entra em contato comigo por email📧
+luistaruguinha22@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media.tenor.com/0eGb_-zHJNIAAAAC/thumbs-up-thumbs-up-gif.gif)
+

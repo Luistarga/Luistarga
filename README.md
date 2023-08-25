@@ -5,8 +5,7 @@ e estou estudando na [alura](https://www.alura.com.br/).
 - Estudando programaçao
 - linguagem javaScript
 ### contato
-Meu insta caso queira dar uma stalkeada 💟
-[meu insta](https://www.instagram.com.br//luis.targass/)
+Meu insta caso queira dar uma stalkeada 💟 [meu insta](https://instagram.com/luis_targass?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D /)
 
 pode entra em contato comigo por email📧
 luistaruguinha22@gmail.com
